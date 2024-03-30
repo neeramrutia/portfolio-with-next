@@ -43,8 +43,8 @@ type Experience = {
 
 export const experiencesData: Experience[] = [
   {
-    title: "Web Developer Trainee",
-    company: "Innovex Academy, Bhubaneswar, India",
+    title: "Started my Journey",
+    company: "",
     description: (
       <ul className="list-disc mt-1 font-normal text-gray-700 dark:text-white/75">
         <li className="mb-2">
@@ -58,17 +58,17 @@ export const experiencesData: Experience[] = [
       </ul>
     ),
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2021",
+    date: "2022 - 2023",
   },
   {
-    title: "Software Developer II",
-    company: "SearchingYard Software Pvt. Ltd., Bhubaneswar, India",
+    title: "Worked As a Freelancer on Upwork",
+    company: "",
     description: (
       <ul className="list-disc mt-1 font-normal text-gray-700 dark:text-white/75">
         <li className="mb-2">
           🚀 Worked with advanced web development technologies like ReactJS,
           NextJS, TypeScript, ECMAScript6, JavaScript, Tailwind CSS, Material
-          UI, Bootstrap 5, CSS, HTML, and JSON.
+          UI, Bootstrap 5, CSS, HTML, and Git.
         </li>
         <li className="mb-2">
           🔄 Worked on updated versions of React, React-RouterDom, React-Hooks,
@@ -76,7 +76,7 @@ export const experiencesData: Experience[] = [
         </li>
         <li className="mb-2">🔗 Worked on REST API and API integration.</li>
         <li className="mb-2">
-          🔥 Developed dynamic applications using FIREBASE.
+          🔥 Developed dynamic applications using FIREBASE & NEXT JS.
         </li>
         <li className="mb-2">
           🧠 Specialized in building logic for maximum performance across a vast
@@ -84,13 +84,13 @@ export const experiencesData: Experience[] = [
         </li>
         <li className="mb-2">
           🤝 Coordinated with the development team and worked on projects like
-          E-COMMERCE, ERP Management System, Inventory Management System, and
+          E-COMMERCE, Project Catalog and
           more.
         </li>
       </ul>
     ),
     icon: <FaReact />,
-    date: "2021 - present",
+    date: "2023 - present",
   },
 ];
 
@@ -119,8 +119,6 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
   "JavaScript",
   "TypeScript",
   "React",
@@ -130,20 +128,19 @@ export const skillsData = [
   "Tailwind",
   "Bootstrap",
   "Material UI",
-
+  "Mantine UI",
   "Rest API",
-
-  // "Prisma",
+  "Prisma",
   "MongoDB",
-  // "Redux",
+  "Redux",
   "GraphQL",
-  // "Apollo",
   "Express",
   "PostgreSQL",
   "Firebase",
-
-  // "Python",
-  // "Django",
-  // "Framer Motion",
-  "Context API",
+  "Python",
+  "Flask",
+  "OAuth",
+  "Vercel",
+  "SEO",
+  "Google Analytics"
 ] as const;
