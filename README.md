@@ -26,11 +26,11 @@ Feel the magic as you explore the code that brings my portfolio to life! 🌟✨
 
 ## Live Demo
 
-[Check out the live demo here]()
+[Check out the live demo here](https://neer-amrutia.vercel.app/)
 
 ## Portfolio Website
 
-[Visit my portfolio website]()
+[Visit my portfolio website](https://neer-amrutia.vercel.app/)
 
 ## Installation and Run
 

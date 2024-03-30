@@ -19,8 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me ✨</SectionHeading>
       <p className="mb-3">
-        After earning my degree in{" "}
-        <span className="font-medium">Computer Science</span>, I embarked on a
+        I embarked on a
         journey fueled by my passion for programming. 🚀{" "}
         <span className="italic">Solving complex problems</span> is the
         heartbeat of my work, and the joy of finding solutions is my constant
